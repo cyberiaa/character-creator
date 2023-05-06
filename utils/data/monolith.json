@@ -1,0 +1,129 @@
+{
+  "key": "Monolith",
+  "attributes": [
+    {
+      "key": "Head",
+      "canStack": false,
+      "attributeCount": "undefined",
+      "attributes": [
+        {
+          "name": "Head1-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-head-head1-black.png"
+        },
+        {
+          "name": "Head1-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-head-head1-white.png"
+        },
+        {
+          "name": "Head2-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-head-head2-black.png"
+        },
+        {
+          "name": "Head2-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-head-head2-white.png"
+        }
+      ]
+    },
+    {
+      "key": "Body",
+      "canStack": false,
+      "attributeCount": "undefined",
+      "attributes": [
+        {
+          "name": "Body1-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-body-body1-black.png"
+        },
+        {
+          "name": "Body1-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-body-body1-white.png"
+        },
+        {
+          "name": "Body2-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-body-body2-black.png"
+        },
+        {
+          "name": "Body2-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-body-body2-white.png"
+        }
+      ]
+    },
+    {
+      "key": "Legs",
+      "canStack": false,
+      "attributeCount": "undefined",
+      "attributes": [
+        {
+          "name": "Legs1-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-legs-legs1-black.png"
+        },
+        {
+          "name": "Legs1-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-legs-legs1-white.png"
+        },
+        {
+          "name": "Legs2-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-legs-legs2-black.png"
+        },
+        {
+          "name": "Legs2-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-legs-legs2-white.png"
+        }
+      ]
+    },
+    {
+      "key": "Arms",
+      "canStack": false,
+      "attributeCount": "undefined",
+      "attributes": [
+        {
+          "name": "Arms1-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-arms-arms1-black.png"
+        },
+        {
+          "name": "Arms1-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-arms-arms1-white.png"
+        },
+        {
+          "name": "Arms2-black",
+          "color": "black",
+          "description": "grants power of flight",
+          "image": "monolith-arms-arms2-black.png"
+        },
+        {
+          "name": "Arms2-white",
+          "color": "white",
+          "description": "grants power of flight",
+          "image": "monolith-arms-arms2-white.png"
+        }
+      ]
+    }
+  ]
+}
